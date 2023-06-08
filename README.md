@@ -29,7 +29,8 @@ try {
 }
 ```
 
-3. Explore the available methods in the AesoApi class to access different API endpoints and retrieve specific data.
+3. Explore the available methods in the AesoApi class to access different API endpoints and retrieve specific data. 
+More info: https://api.aeso.ca/web/api/ets
 
 ## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
